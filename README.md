@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonm7
 Im a junior developer, I love to code.
-Languages I know:
+Tech I use:
 
   -HTML&CSS&JS
   -TypeScript
